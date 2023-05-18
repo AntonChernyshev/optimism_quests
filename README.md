@@ -10,6 +10,8 @@
 
 [Скрипт вполняет Optimism quests](https://galxe.com/Optimism/campaign/GC6xiUtedg):
 
+https://teletype.in/@travch1s/WW6zEIZOZE3
+
 !!! Логика скрипта расчитана на НОВОРЕГИ на которые вы только что закинули ETH, если на балансе есть USDC логика после PERP ломается !!!
 
   1)[Uniswap](https://galxe.com/Optimism/campaign/GC6NiUtWQn)
